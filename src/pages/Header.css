@@ -1,19 +1,48 @@
-.app-logo {
-  height: 100px;
-}
-
-header {
+.header {
   background-color: #222;
   padding: 10px;
   color: white;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
-header ul {
-  
+.header .section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header li {
+  padding: 10px;
+  display: inline-flex;
+}
+
+.header li a {
+  color: white;
+  text-decoration: none;
+}
+
+.header li a:hover {
+  color: lightblue;
 }
 
 .title {
-  font-size: 1.5em;
+  font-size: 2em;
+	line-height: 80px;
+	height: 80px;
+  display: inline-block;
+  margin: 0 10px;
+  overflow: hidden;
+}
+
+.app-logo {
+  height: 80px;
+  width: 80px;
+  display: inline-block;
 }
