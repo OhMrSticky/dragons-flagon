@@ -26,3 +26,6 @@ Hosted as a github page at: https://adabyronlovelace.github.io/dragons-flagon/
 This is a deployed verison of the master branch.
 
 To update page run `npm run deploy` on master.
+
+## Resources
+Some fun free icons can be found at https://www.flaticon.com/
