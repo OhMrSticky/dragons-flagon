@@ -10,10 +10,6 @@ You can find the guide [here](https://github.com/facebookincubator/create-react-
 
 This is a pretty simple React app and liekly we will not need to eject it, so follow the CRA and React docs to add features.
 
-## App
-
- - React [Bootstrap](https://react-bootstrap.github.io/)
-
 ## Feature Requests
 
 Add your requests or bugs you find to the github [Issues](https://github.com/AdaByronLovelace/dragons-flagon)

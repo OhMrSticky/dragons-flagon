@@ -8,7 +8,7 @@ export default class Header extends React.Component {
     return (
       <header className="header">
         <img src={logo} className="app-logo" alt="logo" />
-        <h1 className="title">The Dragon's Flagon</h1>
+        <p className="title">The Dragon's Flagon</p>
         <nav>
           <ul>
             <li><Link to='/'>Home</Link></li>

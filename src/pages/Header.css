@@ -2,10 +2,16 @@
   height: 100px;
 }
 
-.header {
+header {
   background-color: #222;
-  padding: 20px;
+  padding: 10px;
   color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+header ul {
+  
 }
 
 .title {
