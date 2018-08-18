@@ -10,10 +10,9 @@ You can find the guide [here](https://github.com/facebookincubator/create-react-
 
 This is a pretty simple React app and liekly we will not need to eject it, so follow the CRA and React docs to add features.
 
-## App Architecture
+## App
 
- - Sass support (TODO)
- - Bootstrap added (TODO)
+ - React [Bootstrap](https://react-bootstrap.github.io/)
 
 ## Feature Requests
 
@@ -25,7 +24,8 @@ Hosted as a github page at: https://adabyronlovelace.github.io/dragons-flagon/
 
 This is a deployed verison of the master branch.
 
-To update page run `npm run deploy` on master.
+To publish page run `npm run deploy` on master.
 
 ## Resources
+
 Some fun free icons can be found at https://www.flaticon.com/
