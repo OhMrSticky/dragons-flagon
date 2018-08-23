@@ -1,7 +1,7 @@
 {
   "name": "dragons-flagon",
   "homepage": "https://adabyronlovelace.github.io/dragons-flagon",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
