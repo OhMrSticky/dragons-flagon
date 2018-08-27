@@ -7,7 +7,7 @@ export const quests = [
     reward: "Unlimited free lunches",
     description: "Find and destroy the run away giant ball of spaghetti that has become a life form seeking destruction of it's primary enemy, humans."
   }, {
-    title: "The angry Elf",
+    title: "The Angry Elf",
     active: false,
     contact: "Her highness princess Elfarina",
     rank: 2,

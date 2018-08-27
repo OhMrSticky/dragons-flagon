@@ -7,12 +7,12 @@ import QuestsPage from './QuestsPage'
 export default class Main extends React.Component {
   render() {
     return (
-      <main className="container">
+      <div className="container">
         <Switch>
           <Route exact path='/' component={Home} />
           <Route path='/quests' component={QuestsPage} />
         </Switch>
-      </main>
+      </div>
     )
   }
 }
