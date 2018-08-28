@@ -1,6 +1,6 @@
 import React from 'react'
 import './Quest.css'
-import * as questdata from './QuestData'
+import * as questdata from '../data/QuestData'
 
 export default class Quest extends React.Component {
   render() {
