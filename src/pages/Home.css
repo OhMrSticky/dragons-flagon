@@ -1,0 +1,10 @@
+.home .title {
+  font-weight: bold;
+  font-size: 1.5em;
+  background-image: linear-gradient(to right, blue 20%, purple, lime 80%); 
+  color: purple;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  line-height: 1.25em;
+}
